@@ -1,0 +1,15 @@
+h1{font-size:50px;text-align:center;font-family:Microsoft YaHei;color:white;font-weight:bolder;}
+.no{text-align:center;font-family:Microsoft YaHei;text-transform:uppercase;}
+.deepred{color:RGB(204,0,0);text-align:center;font-family:Microsoft YaHei;text-transform:capitalize;}
+.lightred{color:RGB(252,157,154);text-align:center;font-family:Microsoft YaHei;}
+.deepblue{color:RGB(20,68,106);text-align:center;font-family:Microsoft YaHei;}
+.riceyellow{color:RGB(248,232,137);text-align:center;font-family:Microsoft YaHei;}
+
+a:link{color:#FF0000;text-decoration:none}
+a:visited{color:#00FF00;text-decoration:none}
+a:hover{color:#0000FF;text-decoration:underline}
+a:active{color:#FF00FF;text-decoration:underline}
+input:enabled{border:1px dotted #666;background:RGB(248,232,137);}
+input:disabled{border:1px dotted #999;background:#F2F2F2}
+
+.text_ellipsis{text-overflow:ellipsis;overflow:hidden;text-align:justify}
