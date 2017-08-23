@@ -4,6 +4,11 @@ h1{font-size:50px;text-align:center;font-family:Microsoft YaHei;color:white;font
 .lightred{color:RGB(252,157,154);text-align:center;font-family:Microsoft YaHei;}
 .deepblue{color:RGB(20,68,106);text-align:center;font-family:Microsoft YaHei;}
 .riceyellow{color:RGB(248,232,137);text-align:center;font-family:Microsoft YaHei;}
+body{background-image:(urlf68d2746f21fbe0996e57a3168600c338744ad27.jpg);
+	   background-repeat:no-repeat;
+	   background-attachment:scroll;
+	   background-position:center;
+	   background-size:cover;}
 
 a:link{color:#FF0000;text-decoration:none}
 a:visited{color:#00FF00;text-decoration:none}
